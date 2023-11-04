@@ -81,18 +81,46 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
     </ol>
     </h4>
   </li>
-      <h1>Project 6: Image Tampering</h1>
-      <h2>This project was a real eye-opener for me, diving headfirst into the world of deep learning. It was the first time I got my hands on libraries like skimage, PIL, imutils, and cv2, and it felt like I'd uncovered a treasure chest of coding tools. As I ventured into deep learning concepts and tinkered with these libraries, it was like solving an exhilarating puzzle, and the more pieces I connected, the stronger my passion for machine learning and data science grew. I was so stoked by this experience that it led me to think about enrolling in General Assembly's Data Science 3-month certification program, where I can explore data analysis and machine learning in even more depth. It's amazing how one project can set off such a spark of curiosity and motivation for my future learning journey.</h2>
-      <h3>Learning outcomes:</h3>
-      <h4>Learning Outcomes from this project:
+      <li>
+        <h1>Project 6: Image Tampering</h1>
+          <h2>This project was a real eye-opener for me, diving headfirst into the world of deep learning. It was the first time I got my hands on libraries like skimage, PIL, imutils, and cv2, and it felt like I'd uncovered a treasure chest of coding tools. As I ventured into deep learning concepts and tinkered with these libraries, it was like solving an exhilarating puzzle, and the more pieces I connected, the stronger my passion for machine learning and data science grew. I was so stoked by this experience that it led me to think about enrolling in General Assembly's Data Science 3-month certification program, where I can explore data analysis and machine learning in even more depth. It's amazing how one project can set off such a spark of curiosity and motivation for my future learning journey.</h2>
+        <h3>Learning outcomes:</h3>
+        <h4>Learning Outcomes from this project:
+          <ol type=1>
+            <li>Introduction to Deep Learning: The project provided an exciting initiation into the world of deep learning, imparting foundational knowledge in this field.</li>
+            <li>Library Familiarity: Through hands-on experience, the student became familiar with essential libraries like skimage, PIL, imutils, and cv2, equipping them with practical skills.</li>
+            <li>Passion for Machine Learning: The project ignited a strong passion for machine learning and data science, demonstrating the power of hands-on experience in shaping one's interests.</li>
+            <li>Desire for Further Education: The student was motivated to consider pursuing further education in data science, symbolizing the project's impact on their career aspirations.
+          </ol>
+          <br>
+          In summary, this project served as an exhilarating introduction to the realm of deep learning, providing foundational knowledge in this field. Through hands-on experience, the student acquired familiarity with essential libraries like skimage, PIL, imutils, and cv2, gaining practical skills. The project not only sparked a profound passion for machine learning and data science but also instilled a desire for further education in this domain. This underscores the project's significant influence on the student's career aspirations and educational pursuits.
+          </h4>
+        </li>
+      <li>
+        <h1>Project 7: StockNews Api</h1>
+        <h2>Engaging in this project was like embarking on a thrilling journey in the world of API integration. Building upon my previous experiences, this time, I ventured into the realm of multiple APIs, each with its unique requirements and functionalities. It was a challenging yet exhilarating experience, as I navigated through the intricacies of these diverse interfaces. What truly added a new dimension to this project was the incorporation of the Twilio library, which allowed me to send data via text messages, turning data exchange into a tangible and interactive experience. As a college student, I find myself drawn to the endless possibilities that come with mastering the art of API utilization. This project not only expanded my technical expertise but also kindled a profound interest in the realm of data interaction and communication, setting the stage for my continued educational journey in this dynamic field.</h2>
+        <h3>Learning Outcomes</h3>
+        <h4>Learning Outcomes from the Project Involving Multiple APIs and Twilio:
         <ol type=1>
-          <li>Introduction to Deep Learning: The project provided an exciting initiation into the world of deep learning, imparting foundational knowledge in this field.</li>
-          <li>Library Familiarity: Through hands-on experience, the student became familiar with essential libraries like skimage, PIL, imutils, and cv2, equipping them with practical skills.</li>
-          <li>Passion for Machine Learning: The project ignited a strong passion for machine learning and data science, demonstrating the power of hands-on experience in shaping one's interests.</li>
-          <li>Desire for Further Education: The student was motivated to consider pursuing further education in data science, symbolizing the project's impact on their career aspirations.
+          <li>Advanced API Proficiency: This project advanced my proficiency in working with multiple APIs, highlighting the adaptability and versatility required for different API integrations.</li>
+          <li>Understanding Diverse APIs: Interacting with various APIs exposed me to their unique requirements, functionalities, and data exchange methods, enhancing my knowledge of the diverse API landscape.</li>
+          <li>Practical Experience with Twilio: Integrating the Twilio library for text messaging broadened my practical skills, enabling me to explore new dimensions of data communication.</li>
+          <li>Problem-Solving Skills: Handling multiple APIs with varying requirements and addressing communication challenges through text messages honed my problem-solving abilities.</li>
+          <li>Interactive Data Exchange: The incorporation of text messaging via Twilio introduced me to interactive data exchange, emphasizing the practical applications of APIs in real-time communication.</li>
+          <li>Interest in Data Interaction: This project ignited a deep interest in data interaction and communication, prompting me to explore this field further.</li>
+          <li>Educational Aspirations: The project set the stage for my continued educational journey in data interaction and communication, driving me to seek further knowledge and expertise in this dynamic domain.</li>
         </ol>
-        <br>
-        In summary, this project served as an exhilarating introduction to the realm of deep learning, providing foundational knowledge in this field. Through hands-on experience, the student acquired familiarity with essential libraries like skimage, PIL, imutils, and cv2, gaining practical skills. The project not only sparked a profound passion for machine learning and data science but also instilled a desire for further education in this domain. This underscores the project's significant influence on the student's career aspirations and educational pursuits.
+        </h4>
+      </li>
+      <li>
+      <h1></h1>
+      <h2></h2>
+      <h3></h3>
+      <h4>
+        <ol type=1>
+          <li></li>
+        </ol>
       </h4>
-    </ul>
-
+        
+      </li>
+      </ul>
