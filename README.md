@@ -26,5 +26,25 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
     <h3>Learning Outcome</h3>
     <h4>The experience of working with APIs in conjunction with a Graphical User Interface (GUI) has been eye-opening in my journey as a college student. It's not just about connecting software to external data; it's about making technology more relatable and engaging for users. I've learned the nuts and bolts of making API requests, handling data, and presenting it in a user-friendly manner. This practical exposure has shown me the real-world applications of what I've been studying, bridging the gap between theory and practice. It's been a rewarding journey that's enhanced my problem-solving skills, expanded my interdisciplinary knowledge, and made me realize the career potential of this skill in various industries. The experience has been like taking a sneak peek into the dynamic world of software development, and I'm excited to continue learning and applying these skills in my future endeavors.</h4>
   </li>
+  <li>
+    <h1>Project 3: Workout</h1>
+    <h2>This project provided a valuable hands-on learning experience by introducing the concept of utilizing APIs (Application Programming Interfaces) through a Graphical User Interface (GUI). This undertaking not only introduced the use of APIs but also emphasized the practical implementation of Python's requests library, a crucial tool for making HTTP requests and interacting with web-based APIs. Through this practical endeavor, I gained a deeper understanding of how APIs can be integrated into software applications, and how a well-designed GUI can enhance user interactions with data retrieved from external sources. This combination of API integration and GUI design not only expanded my technical skill set but also underscored the significance of creating user-friendly applications that seamlessly connect with external data and services.</h2>
+    <h3>Learning outcomes</h3>
+    <h4>Key Learning Aspects of the Project Involving APIs:
+    <ol type=1>
+      <li>Hands-On Experience: This project offered a practical, hands-on learning experience, allowing for direct application of knowledge.</li>
+      <li>Understanding APIs: The project immersed me in the world of APIs (Application Programming Interfaces), providing an understanding of their role and significance in software development.</li>
+      <li>Data Retrieval and Posting: The project had a clear focus on data retrieval and posting via the Google "Sheety" API, which expanded my practical knowledge of working with specific APIs.</li>
+      <li>API Specialization: This project involved specialization in Google's "Sheety" API, demonstrating that different APIs have distinct functionalities and use cases.
+'Requests' Library Mastery: A strong grasp of Python's 'requests' library was achieved, providing me with the skills to make HTTP requests and interact with web-based APIs effectively.</li>
+      <li>Data Management: Through this project, I gained insight into how APIs can seamlessly integrate with software applications to manage data from both local and external sources.</li>
+      <li>Data-Driven Applications: This experience illuminated the significance of data-driven applications, emphasizing how APIs are pivotal in achieving this goal.</li>
+      <li>Skill Enhancement: The project enhanced my technical skills and provided a glimpse of the process of building data-driven applications, contributing to my overall technical proficiency.</li>
+      <br>
+      Overall, this project served as a holistic learning experience, encompassing not only theoretical knowledge but also practical application in the domain of APIs, data management, and software development.
+      </h4>
+    </ol>
+
+  </li>
   
 </ul>
