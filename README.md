@@ -65,7 +65,7 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
     </h4>
   </li>
   <li>
-    <h1>Project 5: Habbit </h1>
+    <h1>Project 5: Habbit Tracker</h1>
     <h2>This project feels like a logical next step in my learning journey, building on my previous experiences with APIs and data posting through these interfaces. It's an opportunity to take a deeper dive into the world of APIs and explore the intricacies of data interaction. I'll get to see how different APIs have unique requirements and how data exchange plays a crucial role in software development. It's like continuing a chapter in the book of my coding adventure, where I'm excited to unravel more about how APIs work and how they can be harnessed for better data management and application development.</h2>
     <h3>Learning Outcomes</h3>
     <h4>Key Learning Outcomes from this Project:
@@ -81,20 +81,18 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
     </ol>
     </h4>
   </li>
-      <h1>Project 6:</h1>
-      <h2></h2>
-      <h3></h3>
-      <h4>
-        <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+      <h1>Project 6: Image Tampering</h1>
+      <h2>This project was a real eye-opener for me, diving headfirst into the world of deep learning. It was the first time I got my hands on libraries like skimage, PIL, imutils, and cv2, and it felt like I'd uncovered a treasure chest of coding tools. As I ventured into deep learning concepts and tinkered with these libraries, it was like solving an exhilarating puzzle, and the more pieces I connected, the stronger my passion for machine learning and data science grew. I was so stoked by this experience that it led me to think about enrolling in General Assembly's Data Science 3-month certification program, where I can explore data analysis and machine learning in even more depth. It's amazing how one project can set off such a spark of curiosity and motivation for my future learning journey.</h2>
+      <h3>Learning outcomes:</h3>
+      <h4>Learning Outcomes from this project:
+        <ol type=1>
+          <li>Introduction to Deep Learning: The project provided an exciting initiation into the world of deep learning, imparting foundational knowledge in this field.</li>
+          <li>Library Familiarity: Through hands-on experience, the student became familiar with essential libraries like skimage, PIL, imutils, and cv2, equipping them with practical skills.</li>
+          <li>Passion for Machine Learning: The project ignited a strong passion for machine learning and data science, demonstrating the power of hands-on experience in shaping one's interests.</li>
+          <li>Desire for Further Education: The student was motivated to consider pursuing further education in data science, symbolizing the project's impact on their career aspirations.
         </ol>
+        <br>
+        In summary, this project served as an exhilarating introduction to the realm of deep learning, providing foundational knowledge in this field. Through hands-on experience, the student acquired familiarity with essential libraries like skimage, PIL, imutils, and cv2, gaining practical skills. The project not only sparked a profound passion for machine learning and data science but also instilled a desire for further education in this domain. This underscores the project's significant influence on the student's career aspirations and educational pursuits.
       </h4>
-</ul>
+    </ul>
 
