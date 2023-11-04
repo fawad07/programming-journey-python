@@ -12,7 +12,11 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
     <h4>
   The skill set acquired through this learning journey includes a comprehensive grasp of code encapsulation, a fundamental understanding of inheritance, and the practical expertise required for creating and effectively structuring classes. This knowledge not only enhances code organization and reusability but also empowers the development of more robust and maintainable software solutions.</h4></li>
   <li>
-    
+    <h1>Project 2: Snake Game</h1>
+    <h2>The "Classic Snake Game" project was undertaken as a practical exercise for reinforcing Object-Oriented Programming (OOP) principles, with a particular emphasis on the application of inheritance. This project served as a valuable practice opportunity, faithfully replicating the iconic snake game. It allowed for the hands-on application of OOP concepts while implementing each class with at least two carefully crafted functions, specifically designed to reinforce and consolidate the skills acquired during this practice endeavor.</h2>
+    <h3>Learning Outcome</h3>
+    <h4>
+   this project has been instrumental in honing a skill set that encompasses a deep understanding of code encapsulation, a solid grasp of inheritance, and the hands-on expertise required to craft well-structured classes. This newfound knowledge not only elevates the organization and reusability of code but also equips me with the tools to develop software solutions that are more robust and easier to maintain.</h4>
   </li>
   
 </ul>
