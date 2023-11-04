@@ -113,14 +113,18 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
         </h4>
       </li>
       <li>
-      <h1></h1>
-      <h2></h2>
-      <h3></h3>
-      <h4>
+      <h1>Project 8: squirrel n weather project</h1>
+      <h2>This project served as an informative introduction to the world of handling CSV files on a local system, complemented by the practical use of the Pandas module. It provided a foundational understanding of how to work with tabular data stored in CSV format, empowering me to extract, manipulate, and analyze data with ease. This newfound knowledge not only enhanced my data handling skills but also opened doors to more sophisticated data analysis and processing in my educational journey.</h2>
+      <h3>Learning Outcomes</h3>
+      <h4>Learning Outcomes from the Project Involving CSV Files and Pandas:
         <ol type=1>
-          <li></li>
+          <li>CSV File Handling: The project introduced me to the fundamentals of handling CSV files on a local system, giving me the ability to work with tabular data in this common format.</li>
+          <li>Pandas Proficiency: Through practical application, I gained proficiency in using the Pandas module, which is an essential tool for data manipulation and analysis.</li>
+          <li>Data Extraction: I learned how to efficiently extract and load data from CSV files into Python, which is a valuable skill for data analysis and reporting.</li>
+          <li>Data Manipulation: The project enhanced my ability to manipulate and transform data within the Pandas DataFrame, allowing for tasks like filtering, cleaning, and aggregating data.</li>
+          <li>Data Analysis Foundation: This experience laid a strong foundation for more advanced data analysis techniques, as Pandas is widely used in data science and analytics.</li>
+          <li>Real-World Applicability: The skills gained in this project have immediate real-world applicability, making me better prepared for tasks involving data processing and analysis.</li>
         </ol>
-      </h4>
-        
+      </h4>    
       </li>
       </ul>
