@@ -27,7 +27,7 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
     <h4>The experience of working with APIs in conjunction with a Graphical User Interface (GUI) has been eye-opening in my journey as a college student. It's not just about connecting software to external data; it's about making technology more relatable and engaging for users. I've learned the nuts and bolts of making API requests, handling data, and presenting it in a user-friendly manner. This practical exposure has shown me the real-world applications of what I've been studying, bridging the gap between theory and practice. It's been a rewarding journey that's enhanced my problem-solving skills, expanded my interdisciplinary knowledge, and made me realize the career potential of this skill in various industries. The experience has been like taking a sneak peek into the dynamic world of software development, and I'm excited to continue learning and applying these skills in my future endeavors.</h4>
   </li>
   <li>
-    <h1>Project 3: Workout</h1>
+    <h1>Project 3: Workout Tracker</h1>
     <h2>This project provided a valuable hands-on learning experience by introducing the concept of utilizing APIs (Application Programming Interfaces) through a Graphical User Interface (GUI). This undertaking not only introduced the use of APIs but also emphasized the practical implementation of Python's requests library, a crucial tool for making HTTP requests and interacting with web-based APIs. Through this practical endeavor, I gained a deeper understanding of how APIs can be integrated into software applications, and how a well-designed GUI can enhance user interactions with data retrieved from external sources. This combination of API integration and GUI design not only expanded my technical skill set but also underscored the significance of creating user-friendly applications that seamlessly connect with external data and services.</h2>
     <h3>Learning outcomes</h3>
     <h4>Key Learning Aspects of the Project Involving APIs:
@@ -44,7 +44,25 @@ Resources used during the process: <a href="www.w3school.com">w3School</a> and U
       Overall, this project served as a holistic learning experience, encompassing not only theoretical knowledge but also practical application in the domain of APIs, data management, and software development.
       </h4>
     </ol>
-
+  </li>
+  <li>
+    <h1>Project 4: Canvas</h1>
+    <h2>This project turned out to be an incredible hands-on experience that delved into the world of APIs (Application Programming Interfaces), with a focus on data retrieval and posting. It got pretty specific by involving Google's "Sheety" API, which was all about grabbing and pushing data to a remote database. I also got to know Python's 'requests' library pretty well, which is like the magic wand for making HTTP requests and communicating with web-based APIs. Through this project, it became clear how APIs can be seamlessly woven into software applications to manage data both locally and from external sources. I learned a ton and got a glimpse of how data-driven applications are built, all while beefing up my tech skills.</h2>
+    <h3>Learning outcomes</h3>
+    <h4>Key Learning Outcomes of the Project:
+      <ol type=1>
+        <li>Introduction to GUI Development: This project served as an introduction to Graphical User Interface (GUI) development, emphasizing the use of the tkinter module, a fundamental skill for creating user-friendly applications.</li>
+        <li>User Interface Design: The project introduced the principles of designing effective user interfaces, covering aspects such as layout, interactive elements, and visual aesthetics.</li>
+        <li>User Interaction: Through this project, I gained insights into how users interact with GUI-based applications, including button clicks, text input, and other interactive features.</li>
+        <li>Practical Application: The hands-on experience allowed me to apply theoretical knowledge to create functional and visually appealing GUIs, which is a crucial skill in software development.</li>
+        <li>Fundamental Skills: This project laid the foundation for future GUI development endeavors, equipping me with basic skills required to design and build user interfaces.</li>
+        <li>Enhanced Creativity: GUI design involves a level of creativity, and this project encouraged creative thinking and design decisions to make applications more user-friendly.</li>
+        <li>User-Centered Approach: It emphasized the importance of a user-centered approach, ensuring that the interface meets the needs and expectations of the intended audience.</li>
+        <li>Broad Applicability: GUI development is applicable in various domains, from desktop applications to web development, making this a versatile and valuable skill.</li>
+        <br>
+        In summary, this project not only introduced me to the fundamentals of GUI development but also enhanced my design and user-centered thinking skills, setting the stage for future endeavors in creating user-friendly applications.
+      </ol>
+    </h4>
   </li>
   
 </ul>
